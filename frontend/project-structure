@@ -1,0 +1,8 @@
+patent-checker/
+├── public/
+└── src/
+    ├── components/
+    │   ├── PatentInputForm.js  // 用戶輸入表單
+    │   └── ResultDisplay.js     // 結果顯示區
+    ├── App.js                    // 主應用程式入口
+    └── index.js
